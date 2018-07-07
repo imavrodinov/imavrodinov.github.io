@@ -257,6 +257,14 @@
         </li>
       {% endif %}
 
+      {% if author.thingiverse %}
+        <li>
+          <a href="https://thingiverse.com/{{ author.thingiverse }}" itemprop="sameAs">
+            <i class="fa fa-fw thingiverse" aria-hidden="true"></i>Thingiverse
+          </a>
+      </li>
+      {% endif %}
+
       {% include author-profile-custom-links.html %}
     </ul>
   </div>
