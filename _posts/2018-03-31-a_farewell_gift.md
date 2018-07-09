@@ -93,7 +93,7 @@ Looping back to the funky whimsical aesthetic I was going for, parts of the pain
 
 ### Here's the final result - I ended up calling it the Forecast Pioneer 'buddy' collection
 
-![collection_front]({{ "/assets/images/blog_media/forecast_collection_gift/collection_front.jpg" | absolute_url }})
+![collection_front]({{ "/assets/images/blog_media/forecast_collection_gift/collection_front_updated.jpg" | absolute_url }})
 
 ![collection_back]({{ "/assets/images/blog_media/forecast_collection_gift/collection_back.jpg" | absolute_url }})
 
