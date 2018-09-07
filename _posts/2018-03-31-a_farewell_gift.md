@@ -2,6 +2,7 @@
 layout: single
 title: A Farewell Gift, or How to Design a Collection
 excerpt: "A little something something for a team I used to work with"
+read_time: true
 related: true
 gallery:
   - url: /assets/images/blog_media/forecast_collection_gift/dw.jpg
