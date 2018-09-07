@@ -86,7 +86,8 @@ So I did some more 3D design to incorporate all of the 'accessories' for each fi
 
 I've only used Fusion's Sculpt mode once before, and didn't like it all to be honest. Organic modeling is messy, annoying, and involves way too much trial and error to get right. Well, my second attemmpt wasn't too horrible, mainly because I was going for a much more simple marshmallow/cartooney type of palms and fingers.
 
-All of the smaller bits were printed on a DLP machine - the Anycubic Photon, which has BTW been growing on me lately.
+All of the smaller bits were printed on a DLP machine - the Anycubic Photon, ~~which has BTW been growing on me lately~~.
+EDIT: It's amazing and you can read more about it [here](http://mavrodinov.me/dlp-printer-retrospective/)!
 
 I opted to use thick copper wires for the hands and legs, since it's bendable, yet still thick enough to see clearly. I had some leftovers from rewiring my studio anyway, so thumbs up for upcycling.
 
