@@ -91,7 +91,7 @@ EDIT: It's amazing and you can read more about it [here](http://mavrodinov.me/dl
 
 I opted to use thick copper wires for the hands and legs, since it's bendable, yet still thick enough to see clearly. I had some leftovers from rewiring my studio anyway, so thumbs up for upcycling.
 
-Looping back to the funky whimsical aesthetic I was going for, parts of the paint job were very sloppy on purpose.
+Looping back to the funky whimsical aesthetic I was going for, parts of the paint job were left very sloppy on purpose.
 
 ### Here's the final result - I ended up calling it the Forecast Pioneer 'buddy' collection
 
