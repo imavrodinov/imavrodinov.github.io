@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Improving UX through RNG and 3D printing
+title: Improving Ux Through RNG and 3D Printing
 excerpt: "90's kitsch-kunst and craft beer DO go together"
 header:
   overlay_image: /assets/images/blog_media/wheel_of_fortune/bar_splash_2.jpg
