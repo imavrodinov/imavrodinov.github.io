@@ -53,7 +53,7 @@ There are quite a few things going on here, and this is what caught my eye at fi
 All three are obviously done on purpose to give the illustration some charm and friendliness, so I wanted to carry these points over to my design in 3D.
 
 
-I didn't like the fistbump, though, so it didn't make the cut. It wasn't going to work for my project anyway, because I wanted each of the six models to look complete on its own, but also part of the whole set when brought together.
+I didn't like the fistbump, though, so it didn't make the cut. It wasn't going to work for my project anyway, because I wanted each of the six models to look complete on its own, but also be part of the whole set when brought together.
 
 So, what would be a different arm/hand pose and gesture that's both familiar and friendly?
 

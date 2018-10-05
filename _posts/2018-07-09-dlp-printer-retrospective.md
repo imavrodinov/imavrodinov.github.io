@@ -50,13 +50,17 @@ There's also a color touch screen on board. Kinda basic, but gets the job done. 
 
 DLP printers can produce REALLY impressive results. Whatever you end up printing is going to look miles ahead of any FDM print. If done correctly, models don't even look like they've been printed!
 
-Resolution-wise, most FDM printers can go as fine as 50 microns in the Z direction, with a standard horizontal resolution of 400 microns - that's basically the diameter of the nozzle used on the extruder. Going down to 250 microns can help with print quality, but that comes with a steep price of almost double the print time.
+Resolution-wise, most FDM printers can go as fine as 50 μm in the Z direction, with a standard horizontal resolution of 400 μm - that's basically the diameter of the nozzle used on the extruder. Going down to 250 μm can help with print quality, but that comes with a steep price of almost double the print time. For comparison, a regular piece of copy paper is around 100 μm in thickness.
 
-DLP has none of that - resolution in Z height can drop down to 20 microns (from the default setting of 100), and horizontal resolution is 47 microns (that's the pixel size on the LCD screen used to shine UV onto the resin).
+DLP has none of that - resolution in Z height can drop down to 20 μm (from the default setting of 100), and horizontal resolution is 47 μm (that's the pixel size on the LCD screen used to shine UV onto the resin).
 
 Here are a couple of quick test prints I made shortly after getting the Photon. The rook on the left is 2cm in height, and the castle is around 4. It's basically impossible for plastic ran printers to produce something remotely close to this quality.
 
 ![test_prints]({{ "/assets/images/blog_media/photon_printer/test_prints.jpg" | absolute_url }})
+
+Here is another batch of test prints. These are around 1 cm in height (around half an inch), printed at 50 μm layer height.
+
+![tiny_test_prints]({{ "/assets/images/blog_media/photon_printer/tiny_test_prints.jpg" | absolute_url }})
 
 ### No toolhead, no problem!
 
