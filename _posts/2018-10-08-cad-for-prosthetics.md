@@ -76,7 +76,7 @@ I had to think of a way to reliably attach the back panel to the prosthesis, and
 
 My first stab at this was a clip that can be slid through the center prosthesis pole and then tightened down with bolts. Not the best approach, because the component looked bulky and would also not work well if printed using non-flexible materials.
 
-![clip_joint_sketch]({{ "/assets/images/blog_media/prosthetic_cover_cad/clip_joint_sketch.jpg" | absolute_url }})
+![clip_joint_sketch]({{ "/assets/images/blog_media/prosthetic_cover_cad/clip_joint_sketch.png" | absolute_url }})
 
 ![clip_model]({{ "/assets/images/blog_media/prosthetic_cover_cad/clip_model.png" | absolute_url }})
 
@@ -84,7 +84,7 @@ My second take was much more simple and efficient - a two piece clamp that can b
 
 So I went with this idea and created two clamps one inch apart from one another. This would make sure that the back panel won't wobble around and hold tight to the rest of the assembly.
 
-![clamp_joint]({{ "/assets/images/blog_media/prosthetic_cover_cad/clamp_joint.jpg" | absolute_url }})
+![clamp_joint]({{ "/assets/images/blog_media/prosthetic_cover_cad/clamp_joint.png" | absolute_url }})
 
 There's nothing special about the clamps - they were sketched on a center offset plane between both shell pieces, then extruded and joined up to the back panel. Done and done.
 
@@ -108,7 +108,7 @@ Apart from looking good, the main idea of adding some kind of design was to redu
 
 [This Fusion plugin](apps.autodesk.com/FUSION/en/Detail/Index?id=1006119760063675415) was giving me really bad results, so I ditched it and tried sketching a few shapes on my own. This didn't work either, so I ended up using a picture of a broken tile as reference.
 
-![pattern_inspiration]({{ "/assets/images/blog_media/prosthetic_cover_cad/pattern_inspiration.jpg" | absolute_url }})
+![pattern_inspiration]({{ "/assets/images/blog_media/prosthetic_cover_cad/pattern_inspiration.png" | absolute_url }})
 
 Fusion doesn't have any dedicated tools for doing this sort of design work, and I didn't want to spend too much time trying to get it perfect either.
 
