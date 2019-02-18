@@ -164,4 +164,26 @@ Can you say the same thing with your five dolla plastic card box you got from Am
 
 The design is available on my Thingiverse page [here](https://www.thingiverse.com/thing:3408372), and I might add another version to the project that has some extra room for dice inside.
 
+### EDIT: Ad nauseam
+
+I had some extra free time over the last weekend, and with one final spare piece of leather, decided to retry my original book style design.
+
+To get the proportions right, the box had to be wider than the previous one, and this gave me some wiggle room to try a few different layouts.
+
+Decided to go for something a bit more compartmentalized, so I segmented the interior to house the following:
+
+- a main area wide enough for 60 sleeved cards
+- two side areas - one for a 15 card sideboard and an additional one for token cards
+- two small slits on the right box wall - these can be used for storing coins or small non-card tokens
+
+Since the spine of the book box had this extra curve to it, I didn't want to just print it fully solid, so I hollowed that part and made it into an extra storage area. 
+
+![deck_box_v2_front]({{ "/assets/images/blog_media/leatherworking/deck_box_v2_front.jpg" | absolute_url }})
+
+![deck_box_v2_isometric]({{ "/assets/images/blog_media/leatherworking/deck_box_v2_isometric.jpg" | absolute_url }})
+
+![deck_box_v2_interior]({{ "/assets/images/blog_media/leatherworking/deck_box_v2_interior.jpg" | absolute_url }})
+
+Design files are available on my Thingiverse page [here](https://www.thingiverse.com/thing:3436053).
+
 Happy gaming!
