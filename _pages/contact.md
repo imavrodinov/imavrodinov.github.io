@@ -13,15 +13,20 @@ Hope you enjoyed some of the stuff I do.
 
 If you'd like to message me, feel free to use any of the contact details on the left of this page.
 
-I'm also a regular at the following conferences and events, so come say hi if you see me there.
+You might also bump into me at the following events throughout 2019:
 
-Craft conf | Budapest
-TestBash | Netherlands
-Maker Faire | Berlin
-EuRuKo | Vienna
-ISTA | Sofia
-QA Challenge Accepted | Sofia
-OpenConf | Sofia
+Craft conf | Budapest, HU
+TestBash | Utrecht, NL
+Maker Faire | Berlin, DE
+Phobos fest | Wuppertal, DE
+EuRuKo | Rotterdam, NL
+Makers Central | Birmingham, UK
+ISTA | Sofia, BG
+QA Challenge Accepted | Sofia, BG
+OpenConf | Sofia, BG
+Rails Girls | Sofia, BG
+
+
 
 
 Okay, thanks, byyye!

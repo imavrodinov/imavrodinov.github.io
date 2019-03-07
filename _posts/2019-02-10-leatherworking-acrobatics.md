@@ -176,7 +176,9 @@ Decided to go for something a bit more compartmentalized, so I segmented the int
 - two side areas - one for a 15 card sideboard and an additional one for token cards
 - two small slits on the right box wall - these can be used for storing coins or small non-card tokens
 
-Since the spine of the book box had this extra curve to it, I didn't want to just print it fully solid, so I hollowed that part and made it into an extra storage area. 
+Since the spine of the book box had this extra curve to it, I didn't want to just print it fully solid, so I hollowed that part and made it into an extra storage area.
+
+![deck_box_v2_cad]({{ "/assets/images/blog_media/leatherworking/deck_box_v2_cad.jpg" | absolute_url }})
 
 ![deck_box_v2_front]({{ "/assets/images/blog_media/leatherworking/deck_box_v2_front.jpg" | absolute_url }})
 
@@ -184,6 +186,6 @@ Since the spine of the book box had this extra curve to it, I didn't want to jus
 
 ![deck_box_v2_interior]({{ "/assets/images/blog_media/leatherworking/deck_box_v2_interior.jpg" | absolute_url }})
 
-Design files are available on my Thingiverse page [here](https://www.thingiverse.com/thing:3436053).
+Design files are available on my Thingiverse page [here](https://www.thingiverse.com/thing:3436053) and [here](https://www.thingiverse.com/thing:3436053).
 
 Happy gaming!
