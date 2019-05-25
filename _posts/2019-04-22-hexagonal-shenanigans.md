@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Hexagonal Shenanigans
 excerpt: "DIY wedding gifts galore"
 header:

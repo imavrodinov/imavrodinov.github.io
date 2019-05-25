@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Leatherworking Acrobatics
 excerpt: "Not too bad for a first attempt"
 header:

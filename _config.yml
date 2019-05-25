@@ -196,9 +196,9 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-destination: _site/blog/
-paginate_path: "/blog/page:num/"
+paginate: 20 # amount of posts to show
+destination: _site/blog
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
