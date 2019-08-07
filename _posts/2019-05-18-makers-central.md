@@ -101,9 +101,9 @@ In any case, there were a dozen panel talks each day and their timings were loos
 
 Most talks started with a somewhat loose topic and gradually turned into Q&A sessions. Summarizing all of them would be a bit too much, but here are some of my takeaways:
 
-### Jessie and Bob
-
 ![panel1]({{ "/assets/images//blog_media/makers_central/panel1.jpg" | absolute_url }})
+
+### Jessie and Bob
 
 Jessie is part of Home Made Modern. Her brother didn't make it to the show, but she more than made up for his absence with some cool stories of how she switched to DIY from working in a library. She values the learning experience behind working with new tools and technologies rather than the end result (just like me), and always tries to have fun while she's at it.
 
