@@ -13,33 +13,20 @@ header:
 
 Software quality if one of those things you don't tend to notice unless it's really missing.
 
-I've been working in this industry for well over 6 years now, across several companies and a dozen different teams.
+I've been working in this industry for well over 7 years now, across several companies and a dozen different teams.
 
 Though my experience with QA is quite varied - from large corporations, through small businesses and startups, it mostly boils down to one thing.
 
 ### Testers make you and your company look good
 
-
-We are the ones who help your company define requirements and flesh out business logic.
-
-
-We are the ones who help developers write better code.
-
-
-We are the ones who help your customer facing team triage incoming issues.
-
-
-We are the ones who shed light into the darkest corners of your apps.
-
-
-We are the ones who spot UX problems and app vulnerabilities.
-
-
-
 Modern software testing is all about collaboration, exploration, and feedback. Long gone are the days of mindless clicking around all alone in the corner. QA bridges the gap between technology and business.
 
 In the immortal words of James Bach and Maaret Pyhäjärvi,
 > Testers don't break code, they break your illusions about the code.
+
+### Software development
+
+In a somewhat unexpected turn of events, I started helping out with software development for a small B2B Rails app as a side project. Apart from the extra programming experience, doing development as a tester has helped me gain new insight into both fields.
 
 ### On working remotely
 

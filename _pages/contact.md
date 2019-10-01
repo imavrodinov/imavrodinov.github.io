@@ -24,7 +24,8 @@ Makers Central | Birmingham, UK
 ISTA | Sofia, BG
 QA Challenge Accepted | Sofia, BG
 OpenConf | Sofia, BG
-Rails Girls | Sofia, BG
+Rails Girls | Sofia, BG (will be instructing, running a 3D printing booth and giving a talk)
+Universal Adventures in Space and Time | Stockholm, SE
 
 
 
