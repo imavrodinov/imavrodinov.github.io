@@ -142,7 +142,7 @@ With this step finished, it was time to dye the leather.
 
 For a more distressed look, I first dampened a few random areas with hot water, let it soak in for a few minutes, then applied a generous amount of dark green dye with a cotton pad. This part can be repeated several times until the surface looks saturated enough.
 
-The final area in need of conditioning were the outside edges.
+The final area in need of conditioning is were the outside edges of the leather meet the box rim.
 
 A cool little thing about leatherworking is that most tools are multi purpose. I reused the wooden tool mentioned above to rub the outer edges of the leather until they turned stiff and shiny. That's called burnishing.
 
