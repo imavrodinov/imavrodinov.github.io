@@ -195,4 +195,4 @@ No wonder they're printing cars on bikes in their design lab. Definitely worthy 
 
 I had a blast at Additive Days 2020. There were many takeaways from all talks attended, new people met, and familiar ones I haven't seen in a while. Missing the second conference day was a bit unfortunate, but hopefully they'll upload footage from the whole event soon.
 
-See you again next year!
+See you again next year! :v:
