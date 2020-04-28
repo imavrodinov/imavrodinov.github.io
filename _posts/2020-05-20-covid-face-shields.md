@@ -1,6 +1,6 @@
 ---
 layout: single
-title: COVID-19, 3D printing, and You
+title: COVID-19, 3D Printing, and You
 excerpt: "Getting creative in a time of worldwide crisis"
 related: true
 read_time: true
